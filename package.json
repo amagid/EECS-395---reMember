@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
-  "version": "1.0.0",
-  "description": "Node Project Boilerplate",
+  "name": "reMember",
+  "version": "0.0.1",
+  "description": "reMember Backend",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amagid/bigpie-cir-automation-backend.git"
+    "url": "https://github.com/amagid/EECS-395---reMember.git"
   },
   "author": "Aaron Magid",
-  "homepage": "https://github.com/amagid/boilerplate#readme",
+  "homepage": "https://github.com/amagid/EECS-395---reMember#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
